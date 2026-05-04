@@ -1,2 +1,7 @@
-# Microcontroller-projects
-Some Application of Microcontroller Using PIC18 &amp; PIC16
+# Microcontroller Projects
+
+This repository contains embedded systems projects using PIC microcontrollers.
+
+## Projects:
+- Fan Speed Control System
+- 7 Segment Counter
